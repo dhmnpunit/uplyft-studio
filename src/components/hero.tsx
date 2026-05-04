@@ -1,6 +1,6 @@
 export function Hero() {
   return (
-    <section className="pt-40 pb-24 px-6 fade-in-section">
+    <section className="pt-36 pb-24 px-6 fade-in-section">
       <div className="max-w-[1080px] mx-auto">
         <h1 className="font-display text-[clamp(2.25rem,5vw,3.75rem)] leading-[1.1] tracking-tight text-black max-w-[720px]">
           Custom software and AI automations for businesses that have outgrown{" "}
