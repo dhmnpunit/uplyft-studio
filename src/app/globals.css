@@ -4,6 +4,7 @@
   --color-accent: #0066FF;
   --color-accent-hover: #0052cc;
   --font-display: var(--font-display);
+  --font-heading: var(--font-heading);
   --font-body: var(--font-body);
 }
 
